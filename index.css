@@ -1,0 +1,8 @@
+ion-content.background{
+    --background: url(https://www.design.svgbackgrounds.com/wp-content/uploads/2021/05/protruding-squares-orange-background.png) 0 0/100% 100% no-repeat;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+
